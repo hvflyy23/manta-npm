@@ -1,0 +1,2 @@
+# manta-npm
+great project
